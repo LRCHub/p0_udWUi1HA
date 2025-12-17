@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "あの夏に咲け",
+  "base_artist": "ヨルシカ",
+  "createdAt": "2025-12-17T16:07:15.589061Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "あの夏に咲け",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/01_あの夏に咲け_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "あの夏に咲け",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/02_あの夏に咲け_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "あの夏に咲け (在那个夏天绽放)",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/03_あの夏に咲け_(在那个夏天绽放)_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "あの夏に咲け",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/04_あの夏に咲け_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "あの夏に咲け",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/05_あの夏に咲け_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "あの夏に咲け",
+      "artist": "ヨルシカ & n-buna",
+      "has_synced": true,
+      "path": "select/06_あの夏に咲け_ヨルシカ_&_n-buna.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "あの夏に咲け",
+      "artist": "ヨルシカ (Yorushika)",
+      "has_synced": true,
+      "path": "select/07_あの夏に咲け_ヨルシカ_(Yorushika).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あの夏に咲け",
+      "artist": "ヨルシカ",
+      "has_synced": false,
+      "path": "select/pl_01_あの夏に咲け_ヨルシカ.txt"
+    }
+  ]
+}
